@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pari Dream</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">404059328359820</string>
+    <string name="fb_login_protocol_scheme">fb404059328359820</string>
+
+</resources>
